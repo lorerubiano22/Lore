@@ -1,0 +1,2 @@
+# instance | optDist | solveDet | maxRouteCosts | secs | firstParam | secondParam |maxPdestruction | minPdestruction | seed | simC | simL | varD | varT | WeightEconomic | WeightEnvironment | WeightSocial | preventive | corrective | pc | pb | stc | stb
+A-n69-k9	false	false	999999	60	0.1	0.5	0.6 0.05	24800	300	3000	0.1	0.1 0.34	0.33	0.33 true	true	0.45	0.45

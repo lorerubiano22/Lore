@@ -1,0 +1,5 @@
+# 1st exp: DIFFERENT DIMENSIONS - DET ==> det, balanced, each of the dimensions: 40 instances 10 seeds  4 dimensions  0.5 min = 1600 instrucciones = 14 hours
+# 2nd exp: DIFFERENT STOCH LEVELS - DET ==> stoch, balanced, all policies: 40 instances 10 seeds 1 dimension 2 levels stoch 0.5 min = 6.6 hours
+# 3rd exp: DIFFERENT REQUIRED PROBABILITIES ==> stoch, balanced, required probabilities, all policies: 5 instances · 10 seeds · 1 dimension · (5x5) probabilities · 0.5 min = 5.21 hours
+# 4th exp: DIFFERENT POLICIES ==> 3 instances 10 seeds 1 dimension 1 level stoch 3 policies = 90 iter 
+# 5th exp: DIFFERENT TIMES/SEEDS ==> stoch, balanced, all policies: 3 instances 10 seeds 1 dimension A � 18 min = 15 hours

@@ -1,0 +1,8 @@
+a - socialCost
+driverCost,
+fixedCost,    
+energy cost/distCost,
+kpl - energy consumption rate (kWh/km)
+B - battery (h)
+gamma - km to kg de CO2
+ce - costCO2

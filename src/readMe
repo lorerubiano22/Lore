@@ -1,0 +1,13 @@
+TEST:
+	optDist: Do we want to minimize the distance only? TRUE/FALSE. Require: WeightEconomic = WeightEnvironment = WeightSocial = 0
+	solveDet: Do we want to study the deterministic version? TRUE/FALSE. Note: MCS is used at the end for the BDS for comparison
+	safetyStockCapacity2 (stc): when loading products, put: demand * (1 + stc)
+	safetyStockBattery (stb): when designing routes, use a lower level of battery: battery * (1 - stb)
+	EXP1 - Require:
+		if(solveDet){
+			stc = 0;
+			stb = 0;}
+	safetyStockCapacity2: when loading products (MCS), put: exp(demand) * (1 + stc2)
+	safetyStockBattery (stb): when designing routes, use a lower level of battery: battery * (1 - stb)
+	safetyStockCapacity (stc1): when designing routes, use a lower level of capacity: capacity * (1 - stc1)
+	all three are variables. start point: stc1 = 0, stb = 0, stc2 = 1	 

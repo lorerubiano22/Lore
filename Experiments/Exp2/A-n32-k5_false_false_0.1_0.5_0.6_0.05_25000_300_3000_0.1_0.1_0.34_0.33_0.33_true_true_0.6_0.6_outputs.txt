@@ -1,0 +1,139 @@
+***************************************************
+*                      OUTPUTS                    *
+***************************************************
+--------------------------------------------
+BDS:
+--------------------------------------------
+ID : 62177910
+DETERMINISTIC INDICATORS
+Optimization costs: 179.3657
+Total costs: 528.0333
+Dist: 838.5507
+Time: 7.67
+Fuel cost: 24.8798
+Time cost: 486.5912
+Economic cost: 511.471
+Co2 cost: 0.4025
+Social cost: 16.1598
+CheckList: true
+Stochastic Indicators
+Exp. optimization costs: 185.1585
+Exp. total costs: 545.2782
+Exp. distance: 847.3051
+Exp. time: 8.1771
+Exp. fuel costs: 25.2639
+Exp. time costs: 496.409
+Exp. economic costs: 521.6729
+Exp. co2 costs: 0.4087
+Exp. social costs: 23.1966
+Exp. demand: 410.2224
+Rel. demand: 0.9207
+Rel. time: 1
+Rel.: 0.9207
+SafetyStockC1: 0
+SafetyStockC2: 1
+SafetyStockB: 0
+Sol computing time: 30.000026624
+# of routes in sol: 5
+Capacity of the vehicle: 100.0
+
+List of routes: 
+Route 1: 0-30-16-1-12-0
+Optimization costs = 29.5901 || 
+Total costs = 87.0648 || Distance  = 73.4864 || Fuel cost = 2.1803 || Time  = 0.83 || Time cost  = 85.8691 || Social Cost = 1.1603 || CO2 Cost = 0.0353 || Demand  = 72
+Exp. optimization costs = 29.8899 || 
+Exp. total costs = 87.977 || Exp. distance  = 73.4864 || Exp. time  = 0.824 || Exp. distance Cost = 2.1803 || Exp. time cost  = 83.573 || Exp. economic cost  = 85.7533 || Exp. social Cost = 2.1884 || Exp. CO2 Cost = 0.0353 || Exp. demand = 72.035 || Rel. demand = 1 || Rel. time = 1 || Rel. = 1
+
+Route 2: 0-24-14-6-23-3-2-0
+Optimization costs = 32.6809 || 
+Total costs = 96.19 || Distance  = 171.9058 || Fuel cost = 5.1004 || Time  = 1.09 || Time cost  = 93.8228 || Social Cost = 2.2847 || CO2 Cost = 0.0825 || Demand  = 74
+Exp. optimization costs = 33.4408 || 
+Exp. total costs = 98.4905 || Exp. distance  = 171.9058 || Exp. time  = 1.0935 || Exp. distance Cost = 5.1004 || Exp. time cost  = 88.7896 || Exp. economic cost  = 93.89 || Exp. social Cost = 4.5179 || Exp. CO2 Cost = 0.0825 || Exp. demand = 74.0338 || Rel. demand = 1 || Rel. time = 1 || Rel. = 1
+
+Route 3: 0-20-5-25-10-15-29-0
+Optimization costs = 40.1398 || 
+Total costs = 118.1505 || Distance  = 194.3628 || Fuel cost = 5.7667 || Time  = 2.15 || Time cost  = 115.0107 || Social Cost = 3.0464 || CO2 Cost = 0.0933 || Demand  = 71
+Exp. optimization costs = 41.0443 || 
+Exp. total costs = 120.8939 || Exp. distance  = 194.3628 || Exp. time  = 2.1462 || Exp. distance Cost = 5.7667 || Exp. time cost  = 109.1696 || Exp. economic cost  = 114.9364 || Exp. social Cost = 5.8642 || Exp. CO2 Cost = 0.0933 || Exp. demand = 71.009 || Rel. demand = 1 || Rel. time = 1 || Rel. = 1
+
+Route 4: 0-26-7-13-17-19-31-21-0
+Optimization costs = 37.5345 || 
+Total costs = 110.4954 || Distance  = 156.2816 || Fuel cost = 4.6369 || Time  = 1.8 || Time cost  = 107.1049 || Social Cost = 3.3155 || CO2 Cost = 0.075 || Demand  = 98
+Exp. optimization costs = 40.754 || 
+Exp. total costs = 119.9732 || Exp. distance  = 161.9569 || Exp. time  = 2.26 || Exp. distance Cost = 4.9091 || Exp. time cost  = 111.3732 || Exp. economic cost  = 116.2823 || Exp. social Cost = 3.6115 || Exp. CO2 Cost = 0.0794 || Exp. demand = 98.0294 || Rel. demand = 0.9453 || Rel. time = 1 || Rel. = 0.9453
+
+Route 5: 0-28-4-11-8-9-22-18-27-0
+Optimization costs = 39.4204 || 
+Total costs = 116.1327 || Distance  = 242.5141 || Fuel cost = 7.1954 || Time  = 1.8 || Time cost  = 109.6634 || Social Cost = 6.3529 || CO2 Cost = 0.1164 || Demand  = 95
+Exp. optimization costs = 40.0295 || 
+Exp. total costs = 117.9437 || Exp. distance  = 245.5931 || Exp. time  = 1.8535 || Exp. distance Cost = 7.3073 || Exp. time cost  = 103.5036 || Exp. economic cost  = 110.8109 || Exp. social Cost = 7.0146 || Exp. CO2 Cost = 0.1182 || Exp. demand = 95.1152 || Rel. demand = 0.9733 || Rel. time = 1 || Rel. = 0.9733
+
+--------------------------------------------
+BSS:
+--------------------------------------------
+ID : 62177539
+DETERMINISTIC INDICATORS
+Optimization costs: 179.4287
+Total costs: 528.2319
+Dist: 842.9779
+Time: 7.65
+Fuel cost: 25.0112
+Time cost: 486.204
+Economic cost: 511.2152
+Co2 cost: 0.4046
+Social cost: 16.6121
+CheckList: true
+Stochastic Indicators
+Exp. optimization costs: 184.4316
+Exp. total costs: 543.155
+Exp. distance: 853.5233
+Exp. time: 8.0321
+Exp. fuel costs: 25.4479
+Exp. time costs: 493.6007
+Exp. economic costs: 519.0486
+Exp. co2 costs: 0.4117
+Exp. social costs: 23.6947
+Exp. demand: 410.1045
+Rel. demand: 0.9047
+Rel. time: 1
+Rel.: 0.9047
+SafetyStockC1: 0
+SafetyStockC2: 1
+SafetyStockB: 0
+Sol computing time: 0.131100156
+# of routes in sol: 5
+Capacity of the vehicle: 100.0
+
+List of routes: 
+Route 1: 0-30-16-1-12-0
+Optimization costs = 29.5901 || 
+Total costs = 87.0648 || Distance  = 73.4864 || Fuel cost = 2.1803 || Time  = 0.83 || Time cost  = 85.8691 || Social Cost = 1.1603 || CO2 Cost = 0.0353 || Demand  = 72
+Exp. optimization costs = 29.9333 || 
+Exp. total costs = 88.1045 || Exp. distance  = 73.4864 || Exp. time  = 0.8305 || Exp. distance Cost = 2.1803 || Exp. time cost  = 83.6994 || Exp. economic cost  = 85.8798 || Exp. social Cost = 2.1894 || Exp. CO2 Cost = 0.0353 || Exp. demand = 71.9789 || Rel. demand = 1 || Rel. time = 1 || Rel. = 1
+
+Route 2: 0-24-14-6-23-3-2-0
+Optimization costs = 32.6809 || 
+Total costs = 96.19 || Distance  = 171.9058 || Fuel cost = 5.1004 || Time  = 1.09 || Time cost  = 93.8228 || Social Cost = 2.2847 || CO2 Cost = 0.0825 || Demand  = 74
+Exp. optimization costs = 33.3284 || 
+Exp. total costs = 98.1597 || Exp. distance  = 171.9058 || Exp. time  = 1.0767 || Exp. distance Cost = 5.1004 || Exp. time cost  = 88.4646 || Exp. economic cost  = 93.5651 || Exp. social Cost = 4.5121 || Exp. CO2 Cost = 0.0825 || Exp. demand = 74.1137 || Rel. demand = 1 || Rel. time = 1 || Rel. = 1
+
+Route 3: 0-20-5-25-10-15-29-0
+Optimization costs = 40.1398 || 
+Total costs = 118.1505 || Distance  = 194.3628 || Fuel cost = 5.7667 || Time  = 2.15 || Time cost  = 115.0107 || Social Cost = 3.0464 || CO2 Cost = 0.0933 || Demand  = 71
+Exp. optimization costs = 41.0887 || 
+Exp. total costs = 121.0242 || Exp. distance  = 194.3628 || Exp. time  = 2.1529 || Exp. distance Cost = 5.7667 || Exp. time cost  = 109.3006 || Exp. economic cost  = 115.0673 || Exp. social Cost = 5.8636 || Exp. CO2 Cost = 0.0933 || Exp. demand = 71.0229 || Rel. demand = 1 || Rel. time = 1 || Rel. = 1
+
+Route 4: 0-26-7-17-19-31-21-13-0
+Optimization costs = 37.5975 || 
+Total costs = 110.694 || Distance  = 160.7087 || Fuel cost = 4.7682 || Time  = 1.78 || Time cost  = 106.849 || Social Cost = 3.7678 || CO2 Cost = 0.0771 || Demand  = 98
+Exp. optimization costs = 40.0956 || 
+Exp. total costs = 118.0518 || Exp. distance  = 168.3816 || Exp. time  = 2.1248 || Exp. distance Cost = 5.0948 || Exp. time cost  = 108.7554 || Exp. economic cost  = 113.8503 || Exp. social Cost = 4.1191 || Exp. CO2 Cost = 0.0824 || Exp. demand = 97.9544 || Rel. demand = 0.9347 || Rel. time = 1 || Rel. = 0.9347
+
+Route 5: 0-28-4-11-8-9-22-18-27-0
+Optimization costs = 39.4204 || 
+Total costs = 116.1327 || Distance  = 242.5141 || Fuel cost = 7.1954 || Time  = 1.8 || Time cost  = 109.6634 || Social Cost = 6.3529 || CO2 Cost = 0.1164 || Demand  = 95
+Exp. optimization costs = 39.9857 || 
+Exp. total costs = 117.8147 || Exp. distance  = 245.3866 || Exp. time  = 1.8471 || Exp. distance Cost = 7.3055 || Exp. time cost  = 103.3806 || Exp. economic cost  = 110.6861 || Exp. social Cost = 7.0104 || Exp. CO2 Cost = 0.1182 || Exp. demand = 95.0346 || Rel. demand = 0.9677 || Rel. time = 1 || Rel. = 0.9677
+
+--------------------------------------------
+Time: 1h 3m 20s
